@@ -1,3 +1,5 @@
 user service contains the user details
 
-content for the feature 2.
+adding new line in the service file as a new feature1.
+
+updating the main branch now.
