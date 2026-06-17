@@ -1,5 +1,9 @@
 user service contains the user details
 
+<<<<<<< HEAD
 adding new line in the service file as a new feature1.
 
 updating the main branch now.
+=======
+adding new line in the service file as a new feature1.
+>>>>>>> 19e017ab7be9ac9f1b7d980ad56845f791f0bd44
