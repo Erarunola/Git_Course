@@ -1,1 +1,3 @@
 user service contains the user details
+
+adding new line in the service file as a new feature1.
